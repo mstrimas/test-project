@@ -1,1 +1,1 @@
-mean(rnorm(100, mean = 100))
+mean(rnorm(100, mean = 20))
